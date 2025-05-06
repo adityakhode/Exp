@@ -59,3 +59,5 @@ xlabel('Eb/No, dB');
 ylabel('Bit Error Rate');
 
 title('Bit error probability curve for BPSK modulation');
+
+% https://shorturl.at/4XlwV
