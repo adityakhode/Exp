@@ -55,9 +55,11 @@ grid on
 legend('theory', 'simulation');
 
 xlabel('Eb/No, dB');
+![IMG_20250507_091738](https://github.com/user-attachments/assets/80743b01-29f2-47c9-8762-b52dcfc4b5d0)
 
 ylabel('Bit Error Rate');
 
 title('Bit error probability curve for BPSK modulation');
 
 % https://shorturl.at/4XlwV
+
